@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suresh9tails
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python Programming
+- 👀 I’m into Programming
+- 🌱 I’m an expert in Java currently learning Python Programming
 - 💞️ I’m looking to collaborate on Python projects, Cloud projects
 - 📫 How to reach me - whatsapp or call to this number 7013809393
 
